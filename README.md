@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
+
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisrn1986&show_icons=true&theme=radical)
 
-###Feel free to reach out!
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+### Feel free to reach out!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-s/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](abhisrn@gmail.com)
+
 
