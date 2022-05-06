@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisrn1986&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisrn1986&show_icons=true&theme=tokyonight)
 
 ### Feel free to reach out!
 
