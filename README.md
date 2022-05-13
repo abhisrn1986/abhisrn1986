@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a software enginner, aspiring to be a data scientist/ml engineer
 - 🌱 I’m currently learning programming language R 
 - 👯 I’m looking to collaborate on data science projects
-- 💬 Ask me about anything about motorsports and travel.
+- 💬 Ask me anything about motorsports and travel
 <!--
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
