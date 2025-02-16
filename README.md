@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a software enginner, aspiring to be a data scientist/ml engineer
-- 🌱 I’m currently learning programming language R 
-- 👯 I’m looking to collaborate on data science projects
+- 🔭 I’m currently a ml engineer
+- 🌱 I’m currently learning programming language R
+- 👯 I’m looking to collaborate on data science and ml projects
 - 💬 Ask me anything about motorsports and travel
 <!--
 - 🤔 I’m looking for help with ...
